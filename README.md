@@ -1,6 +1,6 @@
 <center>
 
-# How to Create a GitHub Profile
+# Title
 <h3 id="author">
    Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></h3> 
 
