@@ -29,9 +29,9 @@
  <!-- Delete above for publication -->
 
 ## Introduction
-Creating a GitHub profile is a great way to show visitors what you are all about as a developer - what languages and frameworks you know, types of work you are interested in, and general background informaton. 
+Creating a GitHub profile is... 
 <br><br>
-In this guide, we'll cover how to create a repository that doubles as a profile and how to add advanced tools that display cool statistics about your coding history and habits. 
+In this guide, we'll cover...
 
 | Before | After |
 |:------:|:-----:|
