@@ -1,5 +1,5 @@
 <!-- Delete below for publication -->
-<center>
+<div align="center">
 
 # Title
 <h3>
@@ -25,7 +25,7 @@
  
 ![](https://visitor-badge.glitch.me/badge?page_id=profpan396.<repo-name>)
 
- </center>
+ </div>
  <!-- Delete above for publication -->
 
 ## Introduction
