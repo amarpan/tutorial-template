@@ -1,10 +1,11 @@
+<!-- Delete below for publication -->
 <center>
 
 # Title
 <h3>
    Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></h3> 
 
-<!-- Delete below for publication -->
+
  <a href="https://profpan396.github.io" target="_blank">
         <img
           src="https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black">
@@ -24,9 +25,8 @@
  
 ![](https://visitor-badge.glitch.me/badge?page_id=profpan396.<repo-name>)
 
-<!-- Delete above for publication -->
-    
  </center>
+ <!-- Delete above for publication -->
 
 ## Introduction
 Creating a GitHub profile is a great way to show visitors what you are all about as a developer - what languages and frameworks you know, types of work you are interested in, and general background informaton. 
