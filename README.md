@@ -35,7 +35,7 @@ In this guide, we'll cover...
 
 | Before | After |
 |:------:|:-----:|
-|![](images/ghprofile-before-no-profile.png) | ![](images/ghprofile-final-profile.png) 
+|![](images/) | ![](images/) 
 
 ## Create a Profile Repository
 To make a GitHub profile, you must first create a repository with the same name as your GitHub username. 
