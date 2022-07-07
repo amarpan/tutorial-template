@@ -43,8 +43,10 @@ To blah blah blah, you must first...
 |      Step      |      Instructions      |      Reference |
 |----------------|------------------------|---------------
 |0. --- | In the upper-right hand corner of the GitHub dashboard: <br>a. Click `+` <br> b. Click `New repository` <br> c. Under "Repository name", type in your GitHub username <br><br> **For example, if my GitHub username is linuxfan123, I would type in `linuxfan123`** <br><br> d. Click the `Public` option so all users can see your newly created profile <br><br> e. Check the `Add a README file` box <br><br> f. Click the green `Create repository` button to make the new repository with all the above settings            | ![](images/)
-|2. --- |   | ![](images/ghprofile-name-repo.png)
-|3. View your new default profile | g. Click the white `View Profile` button on the right side of the page <br><br><br> h. Take a look at your new profile - by default, some placeholder text is inputted. <br><br> i. Click the pencil icon in the top-right hand corner of your new profile to initiate editing |  ![](images/ghprofile-created-profile.png) ![](images/ghprofile-default-profile.png)
+|1. --- |   | ![](images/)
+|1. --- |   | ![](images/)
+
+
 
 
 ## Advanced Coding Statistic Add-ons
