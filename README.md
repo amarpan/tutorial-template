@@ -1,7 +1,7 @@
 <center>
 
 # Title
-<h3 id="author">
+<h3>
    Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></h3> 
 
 <!-- Delete below for publication -->
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/-@profpan396-pink?style=flat&logo=medium&logoColor=black">
  </a>
  
-![](https://visitor-badge.glitch.me/badge?page_id=profpan396.github-profile-tutorial)
+![](https://visitor-badge.glitch.me/badge?page_id=profpan396.<repo-name>)
 
 <!-- Delete above for publication -->
     
